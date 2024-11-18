@@ -1,0 +1,22 @@
+# Core dependencies
+numpy>=1.24.0
+Pillow>=10.0.0
+urllib3>=2.0.0
+
+# Audio processing
+pyaudio>=0.2.13
+sounddevice>=0.4.6
+soundfile>=0.12.1
+scipy>=1.10.0
+
+# Computer Vision
+opencv-python>=4.8.0
+vidgear>=0.3.0
+
+# AI/ML
+torch>=2.0.0
+anthropic>=0.3.0
+openai>=1.0.0
+
+# HTTP client
+httpx>=0.24.0
